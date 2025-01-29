@@ -1,6 +1,6 @@
 ### Profile Card Project - HNG Internship Stage 0
 
-![Profile-card][./images/Profile-Page-HNG-Internship-01-30-2025_12_27_AM.png]
+![Profile-card](./images/Profile-Page-HNG-Internship-01-30-2025_12_27_AM.png)
 
 This project is part of the HNG Internship Stage 0, designed to test and showcase my skills in HTML, CSS, and Vanilla JavaScript. The goal is to create a responsive and visually appealing profile card that includes specific elements with data-testid attributes for easy testing.
 
